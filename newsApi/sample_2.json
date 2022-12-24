@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Liz Truss faces Tory dissent as market reaction anticipated",
+            "description": "Morning trading is expected to indicate how confident investors are in the UK economy amid government turmoil.",
+            "url": "http://www.bbc.co.uk/news/live/uk-politics-63278993",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2022-10-17T04:37:27.6850807Z",
+            "content": "Chancellor Jeremy Hunt has insisted Liz Truss is still in charge of the government, after a series of U-turns left her premiership in jeopardy.\r\nBut over the weekend, three Tory MPs publicly voiced d… [+1080 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Multiple explosions heard in central Kyiv",
+            "description": "Several explosions were heard in the city on Monday, one week after a barrage of Russian strikes on Ukraine.",
+            "url": "http://www.bbc.co.uk/news/uk-63280523",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2022-10-17T04:22:19.5139537Z",
+            "content": "At least three explosions have been heard in the Ukrainian capital Kyiv on Monday morning, after air raid sirens went off. \r\nThe explosions happened at around 07:00 local time (04:00 GMT), said the B… [+211 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "How Xi Jinping made himself unchallengeable",
+            "description": "The speed and scale of his power grab over a decade in power took many by surprise.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-63210545",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16F35/production/_127150049_xijinping_ccp_illustration_1_index.jpg",
+            "publishedAt": "2022-10-17T03:37:16.0685118Z",
+            "content": "Few foresaw that Xi Jinping would become the most assertive Chinese leader in decades - he is now all but set to secure a historic third term in power.\r\nA decade ago little was known about Mr Xi - ap… [+6795 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hong Kong protester dragged into Manchester Chinese consulate grounds and beaten up",
+            "description": "Clashes broke out after unidentified men attacked placards at a Hong Kong pro-democracy protest.",
+            "url": "http://www.bbc.co.uk/news/uk-63280519",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5EDF/production/_127178242_mediaitem127178048.jpg",
+            "publishedAt": "2022-10-17T02:52:22.3245148Z",
+            "content": "A Hong Kong pro-democracy protester was pulled into Chinese consulate grounds in Manchester on Sunday and beaten up. \r\nA BBC journalist on the scene filmed unidentified men coming out of the consulat… [+3366 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pound moves higher in Asia trade after U-turns",
+            "description": "The currency gained 0.5% against the US dollar in early Asia trading on Monday.",
+            "url": "http://www.bbc.co.uk/news/business-63278821",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/173C8/production/_127167159_62bb12e39897c2f568d5ccff689a8c58dbf7c73d.jpg",
+            "publishedAt": "2022-10-17T02:07:21.8888899Z",
+            "content": "The pound moved higher in early Asia trade after the UK government made a series of U-turns as it abandoned tax cutting policies.\r\nSterling gained around 0.5% to trade above $1.12 in early on Monday.… [+3276 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Al Jazeera staff allege harassment and bullying went unchecked",
+            "description": "A BBC investigation has found multiple allegations of sexual harassment and bullying at the international broadcaster.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-62305455",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B19B/production/_126376454_ks.jpg",
+            "publishedAt": "2022-10-17T00:37:20.4660966Z",
+            "content": "Kamahl Santamaria, a veteran television journalist, was just 32 days into his job at New Zealand's top broadcaster TVNZ when he resigned.\r\nSurprise gave way to shock as allegations about his inapprop… [+11766 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Somalia drought: The moment a two-year-old dies from hunger",
+            "description": "Andrew Harding reports on one family’s agonising loss in Somalia amid growing fears of a famine.",
+            "url": "http://www.bbc.co.uk/news/world-africa-63256873",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6B55/production/_127177472_7add9e28-126c-4176-95ee-639c03f686c7.jpg",
+            "publishedAt": "2022-10-16T23:22:18.1731175Z",
+            "content": "After two days in a small Somali hospital, Abdiwali Abdi seemed to be groping his way towards some sort of recovery. \r\nThe two-year-old still weighed just 4.6kg (10lb 2oz) - not much more than a heal… [+7658 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Turkey mine deaths: President Erdogan criticised over 'destiny' comments",
+            "description": "The coal mine explosion in northern Turkey on Friday night left 41 dead and 28 others injured.",
+            "url": "http://www.bbc.co.uk/news/world-europe-63278124",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A705/production/_127175724_erdoganmine.jpg",
+            "publishedAt": "2022-10-16T18:07:24.5489618Z",
+            "content": "Turkey's president has been criticised for linking the deaths of 41 miners in an explosion to \"destiny\", saying such accidents \"will always be\".\r\nRecep Tayyip Erdogan's comments triggered protests in… [+2528 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Opioid crisis: US teens fastest growing group to die",
+            "description": "Teen deaths from fentanyl overdose rose 20% last year - who is to blame and what can be done?",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63206753",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F8B9/production/_127037636_melanieramos.jpg",
+            "publishedAt": "2022-10-15T23:52:23.4855062Z",
+            "content": "Teen overdose deaths have never been higher in the US as young Americans are increasingly poisoned by the synthetic opiate fentanyl, even as fewer teens use drugs.\r\nMore than 100,000 Americans died o… [+4058 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Alex Jones: Will a huge legal award crush his Infowars empire?",
+            "description": "The talk show host faces severe financial and legal problems, but shows no signs of changing.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63251824",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B547/production/_127170464_80d21b6e-7ec4-4c18-b751-03c22ee65948.jpg",
+            "publishedAt": "2022-10-15T23:37:24.5163646Z",
+            "content": "Conspiracy theorist Alex Jones was handed a major defeat in a Connecticut court this week. But will relatives of the Sandy Hook victims be able to collect the money - and does it mean he'll stop spre… [+4781 chars]"
+        }
+    ]
+}
